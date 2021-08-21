@@ -1,2 +1,1 @@
-# cybersecurity-bootcamp Notebooks
-Made by Mayank
+# cybersecurity-bootcamp Notebook
